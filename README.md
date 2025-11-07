@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Jose Garcia Web Developer
-- 👀 I’m interested in coding, chilling and pets
-- 🌱 I’m currently learning english and python
-- 💞️ I’m looking to collaborate on create the future
+
